@@ -1,0 +1,36 @@
+h1{
+    color:green;
+    text-align:center;
+    font-size:50;
+}
+p{
+    color:rebeccapurple;
+    text-align:justify;
+    text-decoration:underline;
+    text-decoration-style:wavy;
+    text-decoration-color:red;
+    text-transform:capitalize;
+}
+pre{
+    color:brown;
+    text-align:justify;
+    text-decoration:underline;
+    text-decoration-style:wavy;
+    text-decoration-color:blue;
+    text-transform:capitalize;
+    font-size: 30px;
+    line-height: 30px;
+    word-spacing: 4px;
+
+}
+address{
+    color:brown;
+    text-align:justify;
+    text-decoration:underline;
+    text-decoration-style:wavy;
+    text-decoration-color:blue;
+    text-transform:capitalize;
+    font-size: 30px;
+    line-height: 30px;
+    word-spacing: 4px;
+}
